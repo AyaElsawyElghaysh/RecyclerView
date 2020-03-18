@@ -40,4 +40,7 @@ RecyclerView list;
         Toast.makeText(MainActivity.this, "item position is at"+position, Toast.LENGTH_SHORT).show();
 
     }
+    public void setName(){
+        String name="aya";
+    }
 }
